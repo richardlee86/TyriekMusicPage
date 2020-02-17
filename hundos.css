@@ -9,6 +9,7 @@ body {
   padding-top: 25%;
   color: #cc6600;
   font-family: Satisfy, cursive;
+  font-size: 50px;
 }
 .iframe-container {
   margin-left: 350px;
@@ -17,6 +18,18 @@ body {
 }
 .iframe-container iframe {
   position: absolute;
+  margin-left: 450px;
+  width: 500px;
+  height: 350px;
+}
+.iframe-container2 {
+  margin-left: 350px;
+  width: 100%;
+  position: relative;
+}
+.iframe-container2 iframe {
+  position: absolute;
+  margin-top: 410px;
   margin-left: 450px;
   width: 500px;
   height: 350px;
