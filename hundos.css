@@ -17,6 +17,7 @@ body {
 }
 .iframe-container iframe {
   position: absolute;
-  width: 80%;
-  height: 250px;
+  margin-left: 450px;
+  width: 500px;
+  height: 350px;
 }
